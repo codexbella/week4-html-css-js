@@ -1,0 +1,21 @@
+body {
+    background-color: #632626;
+}
+h1 {
+    color: #9D5353;
+}
+h2 {
+      color: #BF8B67;
+}
+p {
+      color: #DACC96;
+}
+input {
+    background-color: #BF8B67;
+}
+.rote-beete-brot-bild {
+    width: 400px;
+}
+.walnussbrot-bild {
+    width: 400px;
+}
